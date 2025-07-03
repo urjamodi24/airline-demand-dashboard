@@ -26,10 +26,16 @@ It also includes a fun bonus: an **AI-generated summary** of the data using [Coh
 ---
 
 ## 🎥 What It Looks Like
+![image](https://github.com/user-attachments/assets/17b2eb58-5819-43f5-8073-c8a1775d45e0)
+![image](https://github.com/user-attachments/assets/23e8c48a-b62b-494e-9afd-2ce613a00adb)
+![image](https://github.com/user-attachments/assets/14ae7088-b1ab-463a-bb3d-88b12efde7a5)
+![image](https://github.com/user-attachments/assets/7603cf88-81a4-40bc-90d3-518d57615f42)
+![image](https://github.com/user-attachments/assets/cab361a2-5acc-48c7-bf48-4f8a6ade6bca)
 
-![Dashboard Preview](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg)
 
-> Interactive filters, charts, and summaries — no coding required!
+
+
+
 
 ---
 
